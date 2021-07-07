@@ -1,0 +1,15 @@
+.jumbotron {
+    box-shadow: 5px 5px 7px 0px rgba(71, 71, 71, 0.83);
+    background-image: url("https://www.nypl.org/sites/default/files/book-op-001.jpg");
+    background-size: cover;
+    height: 500px;
+    background-position: center;
+}
+
+.myText {
+    color: rgba(5, 0, 4, 0.103);
+    font-weight: bold;
+    font-size: 56px;
+    position: relative;
+    transform: translateY(100px)
+}
